@@ -1,4 +1,4 @@
-package model
+package godatatype
 
 import (
 	"database/sql/driver"
